@@ -9,7 +9,7 @@ The coordinate ranges are:
 * Use the following command in chat to place a block.
 * Replace X, Y, and Z with the coordinates you want to use.
 * Replace BLOCKID:BLOCKID with the block id you want to use.\
-(You can find the block id's in the blocks file in this repository, or at https://minecraft-ids.grahamedgecombe.com/ or similar sites.)
+(You can find the block id's in the blocks file in this repository, or at https://minecraft-ids.grahamedgecombe.com/ or similar sites.)\
 \
 NOTE: some blocks in the lists might not work.
 
