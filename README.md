@@ -1,4 +1,4 @@
-## Welcome to Youtube Plays Minecraft
+## Welcome to Chat Plays Minecraft
 Find this live at http://youtube.com/@choffeemc
 
 ### [Coordinates]
