@@ -1,3 +1,6 @@
+## Welcome to Youtube Plays Minecraft
+Find this live at youtube.com/@choffeemc \
+
 ### [Coordinates]
 The bottom left of the screen, where the axis markers are located is X(0) Y(0) Z(0). \
 The coordinate ranges are: \
