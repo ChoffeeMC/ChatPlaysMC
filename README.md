@@ -1,9 +1,9 @@
 ### [Coordinates]
 The bottom left of the screen, where the axis markers are located is X(0) Y(0) Z(0). \
-The coordinate ranges are:/
-    X: 0 -> 280/
-    Y: -30 -> 160/
-    Z: 0 -> 370/
+The coordinate ranges are: /
+    X: 0 -> 280 /
+    Y: -30 -> 160 /
+    Z: 0 -> 370 /
 
 ### [Placing Blocks]
 * Use the following command in chat to place a block.
