@@ -11,14 +11,14 @@ The coordinate ranges are: \
 ### [Placing Blocks]
 * Use the following command in chat to place a block.
 * Replace X, Y, and Z with the coordinates you want to use.
-* Replace BLOCKID:BLOCKID with the block id you want to use.\
+* Replace BLOCKID:SUBID with the block id you want to use.\
 (You can find the block id's in the blocks file in this repository, or at https://minecraft-ids.grahamedgecombe.com/ or similar sites.)\
 \
 NOTE: some blocks in the lists might not work.
 
 Command: 
 ```
-setblock X Y Z BLOCKID:BLOCKID
+setblock X Y Z BLOCKID:SUBID
 ```
 
 Example (Place a grass block at X(100) Y(50) Z(100)):

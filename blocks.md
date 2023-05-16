@@ -1,10 +1,10 @@
 List of "all" the blocks available to be placed.\
-Note: Some blocks may not work\
+Note: Some blocks may not work
 
 ### [How to use]
 To place a block, use the following command in chat:\
-setblock X Y Z BLOCKID:BLOCKID\
-Replace BLOCKID:BLOCKID with the id:id of the block that you want to use\
+setblock X Y Z BLOCKID:SUBID\
+Replace BLOCKID:SUBID with the id:id of the block that you want to use\
 Example:
 ```
 setblock 100 50 100 2:0
