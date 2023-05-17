@@ -5,9 +5,11 @@ Note: Some blocks may not work
 To place a block, use the following command in chat:\
 setblock X Y Z BLOCKID:SUBID\
 Replace BLOCKID:SUBID with the id:id of the block that you want to use\
+OR, use the block name \
 Example:
 ```
 setblock 100 50 100 2:0
+setblock 100 50 100 grass
 ```
 That command will place a grass block at X(100) Y(50) Z(100)\
 
