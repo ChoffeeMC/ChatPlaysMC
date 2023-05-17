@@ -328,7 +328,6 @@ That command will place a grass block at X(100) Y(50) Z(100)\
 214:0 | nether wart block \
 215:0 | red nether brick \
 216:0 | bone block \
-217:0 | structure void \
 218:0 | observer \
 219:0 | white shulker box \
 220:0 | orange shulker box \
@@ -394,5 +393,4 @@ That command will place a grass block at X(100) Y(50) Z(100)\
 252:13 | green concrete powder \
 252:14 | red concrete powder \
 252:15 | black concrete powder \
-255:0 | structure block \
 416:0 | armor stand 
