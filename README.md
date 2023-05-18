@@ -4,9 +4,9 @@ Find this live at http://youtube.com/@choffeemc
 ### [Coordinates]
 The bottom left of the screen, where the axis markers are located is X(0) Y(0) Z(0). \
 The coordinate ranges are: \
-    X: 0 -> 280 \
-    Y: -30 -> 160 \
-    Z: 0 -> 370 
+    X:   0 to 370 \
+    Y:   0 to 280 \
+    Z: -30 to 160
 
 ### [Placing Blocks]
 * Use the following command in chat to place a block.
