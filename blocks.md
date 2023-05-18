@@ -2,16 +2,20 @@ List of "all" the blocks available to be placed.\
 Note: Some blocks may not work
 
 ### [How to use]
-To place a block, use the following command in chat:\
-setblock X Y Z BLOCKID:SUBID\
-Replace BLOCKID:SUBID with the id:id of the block that you want to use\
-OR, use the block name \
-Example:
+To place a block, use the any of following commands in chat:\
+Command Template:
 ```
+setblock X Y Z block
+```
+
+Commands:
+```
+setblock 100 50 100 2
 setblock 100 50 100 2:0
-setblock 100 50 100 grass
+setblock 100 50 100 grass block
+setblock random
 ```
-That command will place a grass block at X(100) Y(50) Z(100)\
+These commands will place a grass block at X(100) Y(50) Z(100) or place a random block in a random location\
 
 
 
@@ -23,7 +27,7 @@ That command will place a grass block at X(100) Y(50) Z(100)\
 1:4 | polished diorite \
 1:5 | andesite \
 1:6 | polished andesite \
-2:0 | grass \
+2:0 | grass block \
 3:0 | dirt \
 3:1 | coarse dirt \
 3:2 | podzol \
